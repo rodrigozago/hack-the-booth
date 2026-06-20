@@ -48,6 +48,7 @@ Instead of closed ecosystems and disposable hardware, Hack the Booth promotes:
 - Hardware architecture: see `/docs/architecture/hardware.md`
 - Software architecture: see `/docs/architecture/software.md`
 - Installation guide: see `/INSTALL.md`
+- Requirements: see `/REQUIREMENTS.md`
 - Roadmap: see `/ROADMAP.md`
 
 ## Community
